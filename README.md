@@ -39,7 +39,7 @@
 
         a.不同的特征值的样本的label的分布
 
-[`代码展示：`]()
+[`代码展示：`](https://github.com/ZhangHongBo2019/Data-analysis-competition-1/blob/master/Part_1_EDA.ipynb)
 
 ## 任务2 数据清洗:
 
