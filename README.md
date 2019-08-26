@@ -65,7 +65,7 @@
 
         a.分析每一个communityName、city、region、plate的数据分布并对其进行数据清洗
 
-[`代码展示：`]()
+[`代码展示：`](https://github.com/ZhangHongBo2019/Data-analysis-competition-1/blob/master/Part_2_DC.ipynb)
 
 ## 任务3 特征工程
 
